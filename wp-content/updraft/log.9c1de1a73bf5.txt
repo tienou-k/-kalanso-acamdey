@@ -1,0 +1,511 @@
+0000.000 (0) Opened log file at time: Mon, 22 Apr 2024 14:11:31 +0000 on http://localhost/kalanso-acamdey.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.2 WP: 6.5.2 PHP: 8.1.6 (apache2handler, Windows NT DCIREODCPR3 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.24-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 70.9M | 76M) multisite: N openssl: OpenSSL 1.1.1n  15 Mar 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 216417.8 MB
+0000.009 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.012 (0) Semaphore (fd, wp_options) being initialised
+0000.020 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.029 (0) Set semaphore last lock (fd) time to 2024-04-22 14:11:31
+0000.031 (0) Semaphore lock (fd) complete
+0000.041 (0) Backup run: resumption=0, nonce=9c1de1a73bf5, file_nonce=9c1de1a73bf5 begun at=1713795091 (0s ago), job type=backup
+0000.046 (0) Scheduling a resumption (1) after 300 seconds (1713795391) in case this run gets aborted
+0000.065 (0) Checking if we have a zip executable available
+0000.071 (0) Creation of backups of directories: beginning
+0000.083 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.285 (0) Total entities for the zip file: 1313 directories, 4988 files (0 skipped as non-modified), 132.2 MB
+0001.325 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.366 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.414 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.481 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.515 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.539 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.582 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.629 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.666 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.703 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.706 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13 MB, 4988 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0018.109 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1100 files added (on-disk size: 3502 KB)
+0018.152 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1200 files added (on-disk size: 3502 KB)
+0018.186 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1300 files added (on-disk size: 3502 KB)
+0018.217 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.5 MB, 4988 files batched, 370 (1371) added so far); re-opening (prior size: 3502 KB)
+0022.310 (0) A useful amount of data was added after this amount of zip processing: 4.5 s (normalised: 4.4 s, rate: 5826.5 KB/s)
+0022.314 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.4824531078339, normalised_time=4.3937371416012, max_time=22.311888933182, data points known=1, old_max_bytes=26214400, new_max_bytes=79871794)
+0022.358 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1400 files added (on-disk size: 7813 KB)
+0022.408 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1500 files added (on-disk size: 7813 KB)
+0022.446 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1600 files added (on-disk size: 7813 KB)
+0022.472 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1700 files added (on-disk size: 7813 KB)
+0022.509 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1800 files added (on-disk size: 7813 KB)
+0022.546 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 1900 files added (on-disk size: 7813 KB)
+0022.567 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2000 files added (on-disk size: 7813 KB)
+0022.616 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2100 files added (on-disk size: 7813 KB)
+0022.658 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2200 files added (on-disk size: 7813 KB)
+0022.692 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2300 files added (on-disk size: 7813 KB)
+0022.728 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (44.7 MB, 4988 files batched, 1001 (2372) added so far); re-opening (prior size: 7813 KB)
+0043.466 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2400 files added (on-disk size: 19468.6 KB)
+0043.496 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2500 files added (on-disk size: 19468.6 KB)
+0043.524 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2600 files added (on-disk size: 19468.6 KB)
+0043.551 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2700 files added (on-disk size: 19468.6 KB)
+0043.588 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2800 files added (on-disk size: 19468.6 KB)
+0043.644 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 2900 files added (on-disk size: 19468.6 KB)
+0043.680 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3000 files added (on-disk size: 19468.6 KB)
+0043.709 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3100 files added (on-disk size: 19468.6 KB)
+0043.735 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3200 files added (on-disk size: 19468.6 KB)
+0043.762 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3300 files added (on-disk size: 19468.6 KB)
+0043.788 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.4 MB, 4988 files batched, 1001 (3373) added so far); re-opening (prior size: 19468.6 KB)
+0055.156 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3400 files added (on-disk size: 23612.4 KB)
+0055.189 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3500 files added (on-disk size: 23612.4 KB)
+0055.222 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3600 files added (on-disk size: 23612.4 KB)
+0055.253 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3700 files added (on-disk size: 23612.4 KB)
+0055.274 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3800 files added (on-disk size: 23612.4 KB)
+0055.296 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 3900 files added (on-disk size: 23612.4 KB)
+0055.345 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4000 files added (on-disk size: 23612.4 KB)
+0055.391 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4100 files added (on-disk size: 23612.4 KB)
+0055.431 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4200 files added (on-disk size: 23612.4 KB)
+0055.459 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4300 files added (on-disk size: 23612.4 KB)
+0055.485 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (24 MB, 4988 files batched, 1001 (4374) added so far); re-opening (prior size: 23612.4 KB)
+0062.215 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4400 files added (on-disk size: 30656.6 KB)
+0062.247 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4500 files added (on-disk size: 30656.6 KB)
+0062.308 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4600 files added (on-disk size: 30656.6 KB)
+0062.353 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4700 files added (on-disk size: 30656.6 KB)
+0062.385 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4800 files added (on-disk size: 30656.6 KB)
+0062.412 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.tmp: 4900 files added (on-disk size: 30656.6 KB)
+0063.273 (0) Creating zip file manifest (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.list-temp.tmp)
+0063.305 (0) Successfully created zip file manifest (size: 423697)
+0063.773 (0) Created plugins zip (0) - 31749.7 KB in 63.7 s (498.6 KB/s) (sha1: 61bb3e999ac40d022b906cc10f2c5c6f94cc05e4, sha256: b35f8a51095a55b38e740b72e7da0d9d74ef9d40ef49f1f9b063f9aa79589dbf)
+0063.790 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0063.793 (0) No remote despatch: user chose no remote backup service
+0063.796 (0) Recording as successfully uploaded: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip
+0063.802 (0) Deleting zip manifest (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip.list.tmp)
+0063.810 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0063.813 (0) Number of backup sets in history: 0; groups (db): 1
+0063.816 (0) Number of backup sets in history: 0; groups (files): 1
+0063.819 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0063.842 (0) Beginning creation of dump of themes (split every: 400 MB)
+0064.237 (0) Total entities for the zip file: 347 directories, 1023 files (0 skipped as non-modified), 30.4 MB
+0064.267 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0064.299 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0064.332 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0064.369 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0064.400 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0064.422 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0064.444 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0064.470 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0064.495 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0064.544 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0064.548 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (30.2 MB, 1023 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0077.690 (0) Creating zip file manifest (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.list-temp.tmp)
+0077.698 (0) Successfully created zip file manifest (size: 84416)
+0077.868 (0) Created themes zip (0) - 16624.6 KB in 14 s (1186 KB/s) (sha1: 36dee7f86d587f11f551d5d5073e84a5e3e58c16, sha256: ed3140f0cd652f3c307a8e917677cd5a33d23929cde7ff50de76d6d52bdaa59c)
+0077.879 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0077.882 (0) No remote despatch: user chose no remote backup service
+0077.884 (0) Recording as successfully uploaded: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip
+0077.890 (0) Deleting zip manifest (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip.list.tmp)
+0077.896 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0077.899 (0) Number of backup sets in history: 0; groups (db): 1
+0077.902 (0) Number of backup sets in history: 0; groups (files): 1
+0077.904 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0077.919 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0077.922 (0) Looking for candidates to backup in: C:\xampp\htdocs\kalanso-acamdey.com/wp-content/uploads
+0077.925 (0) finding files: 2018: adding to list (1)
+0077.928 (0) finding files: 2019: adding to list (2)
+0077.930 (0) finding files: 2020: adding to list (3)
+0077.933 (0) finding files: 2021: adding to list (4)
+0077.936 (0) finding files: 2024: adding to list (5)
+0077.939 (0) finding files: astra: adding to list (6)
+0077.942 (0) finding files: astra-addon: adding to list (7)
+0077.944 (0) finding files: astra-docs: adding to list (8)
+0077.947 (0) finding files: astra-sites: adding to list (9)
+0077.949 (0) finding files: cartflows-logs: adding to list (10)
+0077.952 (0) finding files: elementor: adding to list (11)
+0077.955 (0) finding files: uag-plugin: adding to list (12)
+0077.958 (0) finding files: wc-logs: adding to list (13)
+0077.961 (0) finding files: woocommerce_uploads: adding to list (14)
+0077.963 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0078.018 (0) Total entities for the zip file: 27 directories, 99 files (0 skipped as non-modified), 21.1 MB
+0078.627 (0) Creating zip file manifest (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-uploads.zip.list-temp.tmp)
+0078.632 (0) Successfully created zip file manifest (size: 5238)
+0078.958 (0) Created uploads zip (0) - 18898.5 KB in 1 s (19150.1 KB/s) (sha1: 271432ee4c7c02ac93a04976665459cb8638279d, sha256: 2ee0813493a828b8bde0704526d701a203e7de9a6da20650bf0bca4cf5d19893)
+0078.968 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0078.971 (0) No remote despatch: user chose no remote backup service
+0078.974 (0) Recording as successfully uploaded: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-uploads.zip
+0078.980 (0) Deleting zip manifest (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-uploads.zip.list.tmp)
+0078.987 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0078.990 (0) Number of backup sets in history: 0; groups (db): 1
+0078.993 (0) Number of backup sets in history: 0; groups (files): 1
+0078.996 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0079.009 (0) No backup of mu-plugins: excluded by user's options
+0079.021 (0) Beginning backup of other directories found in the content directory (index: 0)
+0079.025 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0079.028 (0) Looking for candidates to backup in: C:\xampp\htdocs\kalanso-acamdey.com/wp-content
+0079.031 (0) finding files: index.php: adding to list (1)
+0079.035 (0) finding files: languages: adding to list (2)
+0079.038 (0) finding files: plugins: skipping: this is the plugins directory
+0079.041 (0) finding files: themes: skipping: this is the themes directory
+0079.044 (0) finding files: updraft: skipping: this is the updraft directory
+0079.047 (0) finding files: upgrade: skipping: excluded by options
+0079.050 (0) finding files: uploads: skipping: this is the uploads directory
+0079.098 (0) Total entities for the zip file: 3 directories, 128 files (0 skipped as non-modified), 5.1 MB
+0079.133 (0) Zip: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0080.370 (0) Creating zip file manifest (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-others.zip.list-temp.tmp)
+0080.374 (0) Successfully created zip file manifest (size: 8454)
+0080.400 (0) Created others zip (0) - 1432.9 KB in 1.3 s (1068.6 KB/s) (sha1: 1c274a172db0bff8efff473c720bae67e46f80b3, sha256: e73315d78583ee103513b6bec8a37b8b843fc89670192524584ebbbab59ea1be)
+0080.409 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0080.411 (0) No remote despatch: user chose no remote backup service
+0080.414 (0) Recording as successfully uploaded: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-others.zip
+0080.418 (0) Deleting zip manifest (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-others.zip.list.tmp)
+0080.423 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0080.425 (0) Number of backup sets in history: 0; groups (db): 1
+0080.427 (0) Number of backup sets in history: 0; groups (files): 1
+0080.429 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0080.446 (0) Saving backup status to database (elements: 8)
+0080.452 (0) Beginning creation of database dump (WordPress DB)
+0080.455 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0080.462 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe
+0080.713 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1320 bytes total)
+0080.716 (0) Binary mysqldump: error (code: 2)
+0081.926 (0) Table wp_options: Total expected rows (via COUNT): 712
+0082.221 (0) Table wp_options: Rows added in this batch (next record: 2779): 708 (uncompressed bytes in this segment=11670094) in 1.49 seconds
+0082.241 (0) Table wp_options: finishing file(s) (2, 1025.1 KB)
+0082.275 (0) Table wp_users: Total expected rows (via COUNT): 1
+0082.277 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0082.284 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1396) in 0.03 seconds
+0082.295 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0082.327 (0) Table wp_usermeta: Total expected rows (via COUNT): 44
+0082.329 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0082.337 (0) Table wp_usermeta: Rows added in this batch (next record: 44): 44 (uncompressed bytes in this segment=81236) in 0.03 seconds
+0082.348 (0) Table wp_usermeta: finishing file(s) (2, 7.6 KB)
+0082.379 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0082.384 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.03 seconds
+0082.396 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0082.419 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0082.422 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0082.429 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2285) in 0.03 seconds
+0082.441 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0082.472 (0) Table wp_links: Total expected rows (via COUNT): 0
+0082.479 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.03 seconds
+0082.490 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0092.911 (0) Table wp_postmeta: Total expected rows (approximate): 6156
+0106.326 (0) Table wp_postmeta: Rows added in this batch (next record: 8955): 6799 (uncompressed bytes in this segment=77667941) in 23.83 seconds
+0106.343 (0) Table wp_postmeta: finishing file(s) (2, 21500.6 KB)
+0107.016 (0) Table wp_posts: Total expected rows (via COUNT): 808
+0107.178 (0) Table wp_posts: Rows added in this batch (next record: 6341): 808 (uncompressed bytes in this segment=3514495) in 0.82 seconds
+0107.193 (0) Table wp_posts: finishing file(s) (2, 117.8 KB)
+0107.221 (0) Table wp_term_relationships: Total expected rows (approximate): 61
+0107.233 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 61 (uncompressed bytes in this segment=1594) in 0.03 seconds
+0107.243 (0) Table wp_term_relationships: finishing file(s) (2, 0.6 KB)
+0107.275 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 38
+0107.277 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.283 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 44): 38 (uncompressed bytes in this segment=2988) in 0.03 seconds
+0107.296 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.9 KB)
+0107.327 (0) Table wp_termmeta: Total expected rows (via COUNT): 12
+0107.329 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.334 (0) Table wp_termmeta: Rows added in this batch (next record: 15): 12 (uncompressed bytes in this segment=1200) in 0.02 seconds
+0107.348 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0107.370 (0) Table wp_terms: Total expected rows (via COUNT): 38
+0107.372 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.378 (0) Table wp_terms: Rows added in this batch (next record: 44): 38 (uncompressed bytes in this segment=2071) in 0.02 seconds
+0107.390 (0) Table wp_terms: finishing file(s) (2, 0.9 KB)
+0107.416 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 26
+0107.418 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.423 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 50): 26 (uncompressed bytes in this segment=12089) in 0.03 seconds
+0107.435 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.8 KB)
+0107.459 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0107.464 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=624) in 0.02 seconds
+0107.476 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0107.501 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 5
+0107.503 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.508 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=798) in 0.02 seconds
+0107.518 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0107.543 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 66
+0107.545 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.551 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 66): 66 (uncompressed bytes in this segment=6750) in 0.02 seconds
+0107.562 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.2 KB)
+0107.587 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0107.594 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=542) in 0.02 seconds
+0107.604 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0107.632 (0) Table wp_e_submissions: Total expected rows (via COUNT): 6
+0107.635 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.641 (0) Table wp_e_submissions: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=4931) in 0.03 seconds
+0107.655 (0) Table wp_e_submissions: finishing file(s) (2, 1.3 KB)
+0107.692 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 12
+0107.694 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.698 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=3188) in 0.03 seconds
+0107.708 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.7 KB)
+0107.747 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 20
+0107.749 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.752 (0) Table wp_e_submissions_values: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=1592) in 0.03 seconds
+0107.766 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.6 KB)
+0107.796 (0) Table wp_mystickymenu_contact_lists: Total expected rows (via COUNT): 0
+0107.801 (0) Table wp_mystickymenu_contact_lists: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=937) in 0.03 seconds
+0107.815 (0) Table wp_mystickymenu_contact_lists: finishing file(s) (2, 0.4 KB)
+0107.847 (0) Table wp_post_smtp_logmeta: Total expected rows (via COUNT): 0
+0107.853 (0) Table wp_post_smtp_logmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=615) in 0.03 seconds
+0107.870 (0) Table wp_post_smtp_logmeta: finishing file(s) (2, 0.3 KB)
+0107.903 (0) Table wp_post_smtp_logs: Total expected rows (via COUNT): 1
+0107.905 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.910 (0) Table wp_post_smtp_logs: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1889) in 0.03 seconds
+0107.922 (0) Table wp_post_smtp_logs: finishing file(s) (2, 0.7 KB)
+0107.967 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 91
+0107.970 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0107.976 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 811): 91 (uncompressed bytes in this segment=18086) in 0.05 seconds
+0107.991 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 2.8 KB)
+0108.034 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 61
+0108.036 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0108.041 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 61): 61 (uncompressed bytes in this segment=30421) in 0.04 seconds
+0108.054 (0) Table wp_wc_admin_notes: finishing file(s) (2, 6.2 KB)
+0108.075 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 4
+0108.087 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 4 (uncompressed bytes in this segment=622) in 0.03 seconds
+0108.098 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0108.133 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0108.141 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.03 seconds
+0108.154 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0108.181 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0108.187 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=747) in 0.02 seconds
+0108.199 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0108.234 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 0
+0108.242 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1430) in 0.03 seconds
+0108.255 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0108.277 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0108.289 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.03 seconds
+0108.301 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0108.344 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 0
+0108.349 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1523) in 0.04 seconds
+0108.360 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0108.393 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0108.400 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.03 seconds
+0108.410 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0108.439 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0108.444 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1223) in 0.02 seconds
+0108.454 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0108.471 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0108.478 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.02 seconds
+0108.487 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0108.522 (0) Table wp_wc_orders: Total expected rows (via COUNT): 0
+0108.530 (0) Table wp_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1727) in 0.03 seconds
+0108.542 (0) Table wp_wc_orders: finishing file(s) (2, 0.6 KB)
+0108.585 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 0
+0108.593 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=764) in 0.04 seconds
+0108.604 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0108.629 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0108.642 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=862) in 0.03 seconds
+0108.652 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0108.687 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0108.690 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0108.696 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=936) in 0.03 seconds
+0108.709 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0108.741 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 12
+0108.743 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0108.747 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 245): 12 (uncompressed bytes in this segment=2553) in 0.03 seconds
+0108.758 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.7 KB)
+0108.788 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0108.793 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=698) in 0.02 seconds
+0108.803 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0108.823 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0108.835 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.02 seconds
+0108.848 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0108.876 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0108.878 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0108.885 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=812) in 0.03 seconds
+0108.897 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0108.934 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0108.942 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1226) in 0.03 seconds
+0108.954 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0108.992 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0108.995 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1059) in 0.03 seconds
+0109.009 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0109.038 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0109.041 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=959) in 0.02 seconds
+0109.053 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0109.087 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0109.094 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1534) in 0.03 seconds
+0109.108 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0109.151 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0109.154 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.03 seconds
+0109.167 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0109.216 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0109.222 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=784) in 0.04 seconds
+0109.237 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0109.268 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0109.278 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.03 seconds
+0109.291 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0109.337 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0109.351 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=811) in 0.05 seconds
+0109.369 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0109.409 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0109.420 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=837) in 0.04 seconds
+0109.429 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0109.457 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0109.460 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0109.467 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2189) in 0.03 seconds
+0109.482 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0109.515 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0109.524 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=874) in 0.03 seconds
+0109.538 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0109.575 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0109.579 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=773) in 0.03 seconds
+0109.593 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0109.627 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0109.630 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=633) in 0.03 seconds
+0109.642 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0109.675 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0109.680 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=848) in 0.03 seconds
+0109.692 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0109.727 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0109.733 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1297) in 0.03 seconds
+0109.746 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0109.775 (0) Table wp_wpmailsmtp_debug_events: Total expected rows (via COUNT): 1
+0109.777 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0109.784 (0) Table wp_wpmailsmtp_debug_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1107) in 0.03 seconds
+0109.804 (0) Table wp_wpmailsmtp_debug_events: finishing file(s) (2, 0.6 KB)
+0109.835 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 1
+0109.837 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0109.841 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=766) in 0.03 seconds
+0109.855 (0) Table wp_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.4 KB)
+0109.857 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\kalanso-acamdey.com/wp-content/updraft/backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db.gz (line 1925, C:\xampp\htdocs\kalanso-acamdey.com\wp-content\plugins\updraftplus\backup.php)
+0109.861 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_options.table.tmpr2780.gz (1/59/fopen): adding to final database dump
+0109.897 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_options.table.gz (2/59/fopen): adding to final database dump
+0109.900 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_users.table.tmpr2.gz (3/59/fopen): adding to final database dump
+0109.904 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_users.table.gz (4/59/fopen): adding to final database dump
+0109.907 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_usermeta.table.tmpr45.gz (5/59/fopen): adding to final database dump
+0109.911 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_usermeta.table.gz (6/59/fopen): adding to final database dump
+0109.913 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_commentmeta.table.tmpr0.gz (7/59/fopen): adding to final database dump
+0109.916 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_commentmeta.table.gz (8/59/fopen): adding to final database dump
+0109.919 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_comments.table.tmpr2.gz (9/59/fopen): adding to final database dump
+0109.921 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_comments.table.gz (10/59/fopen): adding to final database dump
+0109.923 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_links.table.tmpr0.gz (11/59/fopen): adding to final database dump
+0109.925 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_links.table.gz (12/59/fopen): adding to final database dump
+0109.927 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_postmeta.table.tmpr8956.gz (13/59/fopen): adding to final database dump
+0110.425 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_postmeta.table.gz (14/59/fopen): adding to final database dump
+0110.428 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_posts.table.tmpr6342.gz (15/59/fopen): adding to final database dump
+0110.433 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_posts.table.gz (16/59/fopen): adding to final database dump
+0110.435 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_term_relationships.table.tmpr100001.gz (17/59/fopen): adding to final database dump
+0110.437 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_term_relationships.table.gz (18/59/fopen): adding to final database dump
+0110.440 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_term_taxonomy.table.tmpr45.gz (19/59/fopen): adding to final database dump
+0110.442 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_term_taxonomy.table.gz (20/59/fopen): adding to final database dump
+0110.445 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_termmeta.table.tmpr16.gz (21/59/fopen): adding to final database dump
+0110.447 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_termmeta.table.gz (22/59/fopen): adding to final database dump
+0110.450 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_terms.table.tmpr45.gz (23/59/fopen): adding to final database dump
+0110.452 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_terms.table.gz (24/59/fopen): adding to final database dump
+0110.455 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_actionscheduler_actions.table.tmpr51.gz (25/59/fopen): adding to final database dump
+0110.457 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_actionscheduler_actions.table.gz (26/59/fopen): adding to final database dump
+0110.460 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_actionscheduler_claims.table.tmpr0.gz (27/59/fopen): adding to final database dump
+0110.462 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_actionscheduler_claims.table.gz (28/59/fopen): adding to final database dump
+0110.464 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_actionscheduler_groups.table.tmpr6.gz (29/59/fopen): adding to final database dump
+0110.466 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_actionscheduler_groups.table.gz (30/59/fopen): adding to final database dump
+0110.469 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_actionscheduler_logs.table.tmpr67.gz (31/59/fopen): adding to final database dump
+0110.471 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_actionscheduler_logs.table.gz (32/59/fopen): adding to final database dump
+0110.473 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_e_events.table.tmpr0.gz (33/59/fopen): adding to final database dump
+0110.476 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_e_events.table.gz (34/59/fopen): adding to final database dump
+0110.478 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_e_submissions.table.tmpr7.gz (35/59/fopen): adding to final database dump
+0110.481 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_e_submissions.table.gz (36/59/fopen): adding to final database dump
+0110.483 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_e_submissions_actions_log.table.tmpr13.gz (37/59/fopen): adding to final database dump
+0110.486 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_e_submissions_actions_log.table.gz (38/59/fopen): adding to final database dump
+0110.488 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_e_submissions_values.table.tmpr21.gz (39/59/fopen): adding to final database dump
+0110.491 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_e_submissions_values.table.gz (40/59/fopen): adding to final database dump
+0110.493 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_mystickymenu_contact_lists.table.tmpr0.gz (41/59/fopen): adding to final database dump
+0110.496 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_mystickymenu_contact_lists.table.gz (42/59/fopen): adding to final database dump
+0110.498 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_post_smtp_logmeta.table.tmpr0.gz (43/59/fopen): adding to final database dump
+0110.500 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_post_smtp_logmeta.table.gz (44/59/fopen): adding to final database dump
+0110.503 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_post_smtp_logs.table.tmpr2.gz (45/59/fopen): adding to final database dump
+0110.506 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_post_smtp_logs.table.gz (46/59/fopen): adding to final database dump
+0110.509 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_admin_note_actions.table.tmpr812.gz (47/59/fopen): adding to final database dump
+0110.512 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_admin_note_actions.table.gz (48/59/fopen): adding to final database dump
+0110.514 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_admin_notes.table.tmpr62.gz (49/59/fopen): adding to final database dump
+0110.516 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_admin_notes.table.gz (50/59/fopen): adding to final database dump
+0110.518 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_category_lookup.table.tmpr1001.gz (51/59/fopen): adding to final database dump
+0110.520 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_category_lookup.table.gz (52/59/fopen): adding to final database dump
+0110.523 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_customer_lookup.table.tmpr0.gz (53/59/fopen): adding to final database dump
+0110.526 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_customer_lookup.table.gz (54/59/fopen): adding to final database dump
+0110.528 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_download_log.table.tmpr0.gz (55/59/fopen): adding to final database dump
+0110.531 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_download_log.table.gz (56/59/fopen): adding to final database dump
+0110.533 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_addresses.table.tmpr0.gz (57/59/fopen): adding to final database dump
+0110.536 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_addresses.table.gz (58/59/fopen): adding to final database dump
+0110.538 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (59/59/fopen): adding to final database dump
+0110.541 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_coupon_lookup.table.gz (60/59/fopen): adding to final database dump
+0110.543 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_operational_data.table.tmpr0.gz (61/59/fopen): adding to final database dump
+0110.545 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_operational_data.table.gz (62/59/fopen): adding to final database dump
+0110.548 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (63/59/fopen): adding to final database dump
+0110.550 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_product_lookup.table.gz (64/59/fopen): adding to final database dump
+0110.552 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_stats.table.tmpr0.gz (65/59/fopen): adding to final database dump
+0110.555 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_stats.table.gz (66/59/fopen): adding to final database dump
+0110.557 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (67/59/fopen): adding to final database dump
+0110.560 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_order_tax_lookup.table.gz (68/59/fopen): adding to final database dump
+0110.563 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_orders.table.tmpr0.gz (69/59/fopen): adding to final database dump
+0110.566 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_orders.table.gz (70/59/fopen): adding to final database dump
+0110.568 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_orders_meta.table.tmpr0.gz (71/59/fopen): adding to final database dump
+0110.571 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_orders_meta.table.gz (72/59/fopen): adding to final database dump
+0110.573 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (73/59/fopen): adding to final database dump
+0110.576 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_product_attributes_lookup.table.gz (74/59/fopen): adding to final database dump
+0110.579 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_product_download_directories.table.tmpr3.gz (75/59/fopen): adding to final database dump
+0110.581 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_product_download_directories.table.gz (76/59/fopen): adding to final database dump
+0110.584 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_product_meta_lookup.table.tmpr246.gz (77/59/fopen): adding to final database dump
+0110.587 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_product_meta_lookup.table.gz (78/59/fopen): adding to final database dump
+0110.588 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_rate_limits.table.tmpr0.gz (79/59/fopen): adding to final database dump
+0110.591 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_rate_limits.table.gz (80/59/fopen): adding to final database dump
+0110.593 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_reserved_stock.table.tmpr1.gz (81/59/fopen): adding to final database dump
+0110.595 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_reserved_stock.table.gz (82/59/fopen): adding to final database dump
+0110.598 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (83/59/fopen): adding to final database dump
+0110.600 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_tax_rate_classes.table.gz (84/59/fopen): adding to final database dump
+0110.603 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_webhooks.table.tmpr0.gz (85/59/fopen): adding to final database dump
+0110.605 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wc_webhooks.table.gz (86/59/fopen): adding to final database dump
+0110.607 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (87/59/fopen): adding to final database dump
+0110.609 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_api_keys.table.gz (88/59/fopen): adding to final database dump
+0110.612 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (89/59/fopen): adding to final database dump
+0110.614 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_attribute_taxonomies.table.gz (90/59/fopen): adding to final database dump
+0110.616 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (91/59/fopen): adding to final database dump
+0110.619 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (92/59/fopen): adding to final database dump
+0110.621 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_log.table.tmpr0.gz (93/59/fopen): adding to final database dump
+0110.624 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_log.table.gz (94/59/fopen): adding to final database dump
+0110.626 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (95/59/fopen): adding to final database dump
+0110.628 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_order_itemmeta.table.gz (96/59/fopen): adding to final database dump
+0110.631 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_order_items.table.tmpr0.gz (97/59/fopen): adding to final database dump
+0110.633 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_order_items.table.gz (98/59/fopen): adding to final database dump
+0110.635 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (99/59/fopen): adding to final database dump
+0110.641 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_payment_tokenmeta.table.gz (100/59/fopen): adding to final database dump
+0110.643 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (101/59/fopen): adding to final database dump
+0110.645 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_payment_tokens.table.gz (102/59/fopen): adding to final database dump
+0110.647 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_sessions.table.tmpr2.gz (103/59/fopen): adding to final database dump
+0110.649 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_sessions.table.gz (104/59/fopen): adding to final database dump
+0110.651 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (105/59/fopen): adding to final database dump
+0110.653 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_shipping_zone_locations.table.gz (106/59/fopen): adding to final database dump
+0110.655 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (107/59/fopen): adding to final database dump
+0110.657 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_shipping_zone_methods.table.gz (108/59/fopen): adding to final database dump
+0110.660 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (109/59/fopen): adding to final database dump
+0110.662 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_shipping_zones.table.gz (110/59/fopen): adding to final database dump
+0110.664 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (111/59/fopen): adding to final database dump
+0110.667 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_tax_rate_locations.table.gz (112/59/fopen): adding to final database dump
+0110.669 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (113/59/fopen): adding to final database dump
+0110.671 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_woocommerce_tax_rates.table.gz (114/59/fopen): adding to final database dump
+0110.674 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wpmailsmtp_debug_events.table.tmpr2.gz (115/59/fopen): adding to final database dump
+0110.676 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wpmailsmtp_debug_events.table.gz (116/59/fopen): adding to final database dump
+0110.678 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wpmailsmtp_tasks_meta.table.tmpr2.gz (117/59/fopen): adding to final database dump
+0110.681 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db-table-wp_wpmailsmtp_tasks_meta.table.gz (118/59/fopen): adding to final database dump
+0110.718 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db.gz: finished writing out complete database file (22688.4 KB)
+0111.000 (0) Total database tables backed up: 59 (backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db.gz, size: 23233005, sha1: 7a6f66bcf4fde551297ef4371830341442668e8c, sha256: b77c072322ed72405cc759cb06ac8ad11f604f40a9870aadfcd64a2229392ff8)
+0111.010 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-plugins.zip: plugins: This file has already been successfully uploaded
+0111.011 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-themes.zip: themes: This file has already been successfully uploaded
+0111.013 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-uploads.zip: uploads: This file has already been successfully uploaded
+0111.015 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-others.zip: others: This file has already been successfully uploaded
+0111.017 (0) backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0111.019 (0) Saving backup history. Total backup size: 89.3 MB
+0111.023 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0111.029 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0111.031 (0) No remote despatch: user chose no remote backup service
+0111.033 (0) Recording as successfully uploaded: backup_2024-04-22-1511_Orange_Digital_Center_9c1de1a73bf5-db.gz
+0111.040 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0111.043 (0) Number of backup sets in history: 1; groups (db): 1
+0111.045 (0) Examining (for databases) backup set with group_id=0, nonce=9c1de1a73bf5, datestamp=1713795091 (Apr 22 2024 14:11:31)
+0111.046 (0) This backup set is the backup set just made, so will not be deleted.
+0111.047 (0) Number of backup sets in history: 1; groups (files): 1
+0111.048 (0) Examining (for files) backup set with nonce=9c1de1a73bf5, datestamp=1713795091 (Apr 22 2024 14:11:31)
+0111.048 (0) This backup set is the backup set just made, so will not be deleted.
+0111.050 (0) This backup set is the backup set just made, so will not be deleted.
+0111.050 (0) This backup set is the backup set just made, so will not be deleted.
+0111.050 (0) This backup set is the backup set just made, so will not be deleted.
+0111.050 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0111.052 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0111.057 (0) Resume backup (9c1de1a73bf5, 0): finish run
+0111.063 (0) Decremented the semaphore (fd) by 1
+0111.070 (0) Semaphore (fd) unlocked
+0111.072 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0111.080 (0) No email will/can be sent - the user has not configured an email address.
+0111.082 (0) The backup succeeded and is now complete
