@@ -150,6 +150,7 @@ Pour toute question ou problème, contactez [Kontere TIENOU] à [kontere13e@gmai
 	https://www.figma.com/file/h79smW4OlqWrHkvJGcOik9/Groupe_2?type=design&node-	id=0%3A1&mode=design&t=Qn9JXAHkOMMCblxu-1
 
 ## Depost gitHub
+https://github.com/tienou-k/kalanso-academy.git
 
 ---
 
